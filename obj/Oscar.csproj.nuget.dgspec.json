@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\Oscar\\Oscar.csproj": {}
+    "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\oscar\\Oscar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\Oscar\\Oscar.csproj": {
+    "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\oscar\\Oscar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\Oscar\\Oscar.csproj",
+        "projectUniqueName": "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\oscar\\Oscar.csproj",
         "projectName": "Oscar",
-        "projectPath": "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\Oscar\\Oscar.csproj",
+        "projectPath": "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\oscar\\Oscar.csproj",
         "packagesPath": "C:\\Users\\Ixzayara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\Oscar\\obj\\",
+        "outputPath": "C:\\Users\\Ixzayara\\Desktop\\Proyecto. danny\\oscar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

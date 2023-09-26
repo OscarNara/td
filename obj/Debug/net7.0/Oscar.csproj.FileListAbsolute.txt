@@ -1,0 +1,14 @@
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\bin\Debug\net7.0\Oscar.exe
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\bin\Debug\net7.0\Oscar.deps.json
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\bin\Debug\net7.0\Oscar.runtimeconfig.json
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\bin\Debug\net7.0\Oscar.dll
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\bin\Debug\net7.0\Oscar.pdb
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\obj\Debug\net7.0\Oscar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\obj\Debug\net7.0\Oscar.AssemblyInfoInputs.cache
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\obj\Debug\net7.0\Oscar.AssemblyInfo.cs
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\obj\Debug\net7.0\Oscar.csproj.CoreCompileInputs.cache
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\obj\Debug\net7.0\Oscar.dll
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\obj\Debug\net7.0\refint\Oscar.dll
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\obj\Debug\net7.0\Oscar.pdb
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\obj\Debug\net7.0\Oscar.genruntimeconfig.cache
+C:\Users\Ixzayara\Desktop\Proyecto. danny\oscar\obj\Debug\net7.0\ref\Oscar.dll
